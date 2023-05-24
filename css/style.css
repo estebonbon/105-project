@@ -1,3 +1,6 @@
+.content-wrapper {
+	background: #C4F4E8;
+}
 section {
 	width: 800px;
 	margin: 100px auto;
@@ -14,3 +17,19 @@ section h1 {
 section p {
 	font: 16px 'Open Sans';
 }
+.title-theatre {
+	font-size: 50px;
+	text-transform: uppercase;
+	font-family: 'Nabla', cursive;
+	text-align: center;
+
+}
+
+.third-subtitle {
+	padding-top: 30px;
+}
+
+#center_img {
+	float: left;
+}
+
